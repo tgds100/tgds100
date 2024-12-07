@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jackox77
+- 👋 Hi, I’m @tgds100
 - 👀 I’m interested in program.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on ai.
