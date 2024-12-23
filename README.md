@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @tgds100
-- 👀 I’m interested in program.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on ai.
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋嗨，我是 @tgds100
+- 👀我对编程感兴趣。
+- 🌱我目前正在学习Python。
+- 💞️我希望在人工智能领域展开合作。
+- 📫如何联系我……
+- 😄代词：……
+- ⚡有趣的事：……
 
 <!---
-jackox77/jackox77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+jackox77/jackox77 是一个✨特别的✨仓库，因为它的 `README.md`（此文件）会显示在你的 GitHub 个人资料上。
+你可以点击“预览”链接查看你的更改。
+---> 
